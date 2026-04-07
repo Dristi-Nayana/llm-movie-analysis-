@@ -1,0 +1,21 @@
+# Core LLM and Transformers
+transformers==4.44.2
+torch==2.4.1
+sentencepiece
+accelerate
+
+# Data handling
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+
+# Evaluation & utilities
+scikit-learn
+jsonlines
+
+# Optional for Colab / Jupyter
+tqdm
+ipython
