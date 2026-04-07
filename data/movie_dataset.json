@@ -1,0 +1,260 @@
+[
+  {
+    "movie_title": "Do Patti",
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "description": "A police officer investigates a domestic dispute where a jealous twin accuses her sisters husband of attempted murder, leading to a psychological mystery.",
+    "cast": [
+      "Kriti Sanon",
+      "Kajol",
+      "Shaheer Sheikh"
+    ]
+  },
+  {
+    "movie_title": "Laapataa Ladies",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "description": "Two newlywed brides go missing on a chaotic train journey in 2001 India, sparking a humorous and satirical investigation into gender norms.",
+    "cast": [
+      "Nitanshi Goel",
+      "Pratibha Ranta",
+      "Sparsh Shrivastava"
+    ]
+  },
+  {
+    "movie_title": "Lucky Baskhar",
+    "genres": [
+      "Drama",
+      "Family"
+    ],
+    "description": "A banker embarks on an unconventional quest to improve his familys future, confronting social hurdles and personal dilemmas.",
+    "cast": [
+      "Dulquer Salmaan",
+      "Meenakshi Chaudhary"
+    ]
+  },
+  {
+    "movie_title": "Silent Horizons",
+    "genres": [
+      "Mystery",
+      "Drama"
+    ],
+    "description": "A detective with a troubled past investigates a series of disappearances in a quiet coastal town, uncovering secrets that challenge everything he believes.",
+    "cast": [
+      "Rajkummar Rao",
+      "Radhika Apte",
+      "Nawazuddin Siddiqui"
+    ]
+  },
+  {
+    "movie_title": "Kalki 2898 AD",
+    "genres": [
+      "Sci-Fi",
+      "Action",
+      "Adventure"
+    ],
+    "description": "In a dystopian future, a bounty hunter is assigned to stop the delivery of a pregnant woman whose child might reshape society.",
+    "cast": [
+      "Prabhas",
+      "Deepika Padukone",
+      "Amitabh Bachchan"
+    ]
+  },
+  {
+    "movie_title": "Stree 2: Sarkate Ka Aatank",
+    "genres": [
+      "Horror",
+      "Comedy"
+    ],
+    "description": "A deadly forest ghost returns to terrorize a town, blending scares with comedy as villagers fight back against supernatural forces.",
+    "cast": [
+      "Rajkummar Rao",
+      "Shraddha Kapoor",
+      "Pankaj Tripathi"
+    ]
+  },
+  {
+    "movie_title": "Bhool Bhulaiyaa 3",
+    "genres": [
+      "Horror",
+      "Comedy"
+    ],
+    "description": "Rooh Baba enters a haunted estate in Kolkata where two ghosts claim to be the same spirit, giving rise to hilarious and spooky chaos.",
+    "cast": [
+      "Kartik Aaryan",
+      "Vidya Balan",
+      "Madhuri Dixit"
+    ]
+  },
+  {
+    "movie_title": "Singham Again",
+    "genres": [
+      "Action",
+      "Cop Thriller"
+    ],
+    "description": "A new mission reunites Singham with his allies to dismantle a powerful criminal syndicate threatening public order.",
+    "cast": [
+      "Ajay Devgn",
+      "Kareena Kapoor",
+      "Arjun Kapoor"
+    ]
+  },
+  {
+    "movie_title": "Pushpa 2: The Rule",
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "description": "Pushpa rises further in the world of smuggling, facing fierce rivals and corruption in a battle for power and survival.",
+    "cast": [
+      "Allu Arjun",
+      "Rashmika Mandanna"
+    ]
+  },
+  {
+    "movie_title": "Fighter",
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "description": "Indian Air Force pilots navigate personal and political tensions following high-stakes aerial missions against threats across the border.",
+    "cast": [
+      "Hrithik Roshan",
+      "Deepika Padukone"
+    ]
+  },
+  {
+    "movie_title": "Kothanodi",
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Folklore"
+    ],
+    "description": "Based on traditional Assamese folk tales, this film weaves dark and mystical stories of love, loss, and revenge in rural Assam.",
+    "cast": [
+      "Seema Biswas",
+      "Adil Hussain",
+      "Rima Das"
+    ]
+  },
+  {
+    "movie_title": "Gladiator II",
+    "genres": [
+      "Action",
+      "Drama",
+      "Historical"
+    ],
+    "description": "Years after Maximus's death, Luciusnow a grown manis drawn into the brutal world of the Roman arena, where he must fight for survival and legacy.",
+    "cast": [
+      "Paul Mescal",
+      "Denzel Washington",
+      "Pedro Pascal"
+    ]
+  },
+  {
+    "movie_title": "Village Rockstars",
+    "genres": [
+      "Drama",
+      "Family"
+    ],
+    "description": "A young girl in rural Assam dreams of owning a guitar and forming a rock band, overcoming challenges with determination and hope.",
+    "cast": [
+      "Bhanita Das",
+      "Kapil Garo",
+      "Bhaskar Gohain"
+    ]
+  },
+  {
+    "movie_title": "Sinners",
+    "genres": [
+      "Horror",
+      "Supernatural",
+      "Thriller"
+    ],
+    "description": "Set in 1930s Mississippi, a family battles a seductive viral curse tied to vampiric folklore in a gripping supernatural thriller.",
+    "cast": [
+      "Michael B. Jordan"
+    ]
+  },
+  {
+    "movie_title": "3 Idiots",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "description": "Three engineering students navigate the pressures of academic life while exploring friendship, love, and the meaning of success.",
+    "cast": [
+      "Aamir Khan",
+      "R. Madhavan",
+      "Sharman Joshi"
+    ]
+  },
+  {
+    "movie_title": "Eddington",
+    "genres": [
+      "Drama",
+      "Psychological",
+      "Western"
+    ],
+    "description": "In a surreal New Mexico town during the COVID-19 era, tensions flare between a sheriff and mayor as social decay sets in.",
+    "cast": [
+      "Joaquin Phoenix",
+      "Pedro Pascal"
+    ]
+  },
+  {
+    "movie_title": "My Name Is Khan",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "description": "The story follows Rizwan Khan, a man with Aspergers syndrome, who embarks on a journey across America to meet the President and clear his name after being mistaken as a terrorist.",
+    "cast": [
+      "Shah Rukh Khan",
+      "Kajol",
+      "Jimmy Shergill"
+    ]
+  },
+  {
+    "movie_title": "A Quiet Place: Day One",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "description": "On the first day of the alien apocalypse, a lone survivor navigates chaos and danger in New York City to find safety.",
+    "cast": [
+      "Joseph Quinn",
+      "Alex Wolff"
+    ]
+  },
+  {
+    "movie_title": "Final Destination: Bloodlines",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "description": "A new generation faces deaths intricate designs after disturbing premonitions threaten their lives in everyday settings.",
+    "cast": [
+      "Brec Bassinger",
+      "Teo Briones",
+      "Kaitlyn Santa Juana"
+    ]
+  },
+  {
+    "movie_title": "Barbie",
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Drama"
+    ],
+    "description": "Barbie steps out of her perfect world to discover real lifes complexities, challenging ideas of identity and purpose.",
+    "cast": [
+      "Margot Robbie",
+      "Ryan Gosling"
+    ]
+  }
+]

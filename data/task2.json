@@ -1,0 +1,208 @@
+[
+  {
+    "movie_title": "Do Patti",
+    "description": "A police officer investigates a domestic dispute where a jealous twin accuses her sisters husband of attempted murder, leading to a psychological mystery.",
+    "actual_genres": [
+      "drama",
+      "thriller"
+    ],
+    "predicted_genres": "Mystery, Family, Crime",
+    "match": false
+  },
+  {
+    "movie_title": "Laapataa Ladies",
+    "description": "Two newlywed brides go missing on a chaotic train journey in 2001 India, sparking a humorous and satirical investigation into gender norms.",
+    "actual_genres": [
+      "comedy",
+      "drama"
+    ],
+    "predicted_genres": "Comedy, Adventure, Mystery",
+    "match": true
+  },
+  {
+    "movie_title": "Lucky Baskhar",
+    "description": "A banker embarks on an unconventional quest to improve his familys future, confronting social hurdles and personal dilemmas.",
+    "actual_genres": [
+      "drama",
+      "family"
+    ],
+    "predicted_genres": "Family, Adventure, Action",
+    "match": true
+  },
+  {
+    "movie_title": "Silent Horizons",
+    "description": "A detective with a troubled past investigates a series of disappearances in a quiet coastal town, uncovering secrets that challenge everything he believes.",
+    "actual_genres": [
+      "mystery",
+      "drama"
+    ],
+    "predicted_genres": "Mystery, Crime, Adventure",
+    "match": true
+  },
+  {
+    "movie_title": "Kalki 2898 AD",
+    "description": "In a dystopian future, a bounty hunter is assigned to stop the delivery of a pregnant woman whose child might reshape society.",
+    "actual_genres": [
+      "sci-fi",
+      "action",
+      "adventure"
+    ],
+    "predicted_genres": "Sci-Fi, Crime, Action",
+    "match": true
+  },
+  {
+    "movie_title": "Stree 2: Sarkate Ka Aatank",
+    "description": "A deadly forest ghost returns to terrorize a town, blending scares with comedy as villagers fight back against supernatural forces.",
+    "actual_genres": [
+      "horror",
+      "comedy"
+    ],
+    "predicted_genres": "Comedy, Horror, Thriller",
+    "match": true
+  },
+  {
+    "movie_title": "Bhool Bhulaiyaa 3",
+    "description": "Rooh Baba enters a haunted estate in Kolkata where two ghosts claim to be the same spirit, giving rise to hilarious and spooky chaos.",
+    "actual_genres": [
+      "horror",
+      "comedy"
+    ],
+    "predicted_genres": "Drama, Horror, Adventure",
+    "match": true
+  },
+  {
+    "movie_title": "Singham Again",
+    "description": "A new mission reunites Singham with his allies to dismantle a powerful criminal syndicate threatening public order.",
+    "actual_genres": [
+      "action",
+      "cop thriller"
+    ],
+    "predicted_genres": "Crime, Action, Adventure",
+    "match": true
+  },
+  {
+    "movie_title": "Pushpa 2: The Rule",
+    "description": "Pushpa rises further in the world of smuggling, facing fierce rivals and corruption in a battle for power and survival.",
+    "actual_genres": [
+      "action",
+      "drama"
+    ],
+    "predicted_genres": "Adventure, Action, Crime",
+    "match": true
+  },
+  {
+    "movie_title": "Fighter",
+    "description": "Indian Air Force pilots navigate personal and political tensions following high-stakes aerial missions against threats across the border.",
+    "actual_genres": [
+      "action",
+      "drama"
+    ],
+    "predicted_genres": "Drama, Action, War",
+    "match": true
+  },
+  {
+    "movie_title": "Kothanodi",
+    "description": "Based on traditional Assamese folk tales, this film weaves dark and mystical stories of love, loss, and revenge in rural Assam.",
+    "actual_genres": [
+      "drama",
+      "fantasy",
+      "folklore"
+    ],
+    "predicted_genres": "Mystery, Drama, Family",
+    "match": true
+  },
+  {
+    "movie_title": "Gladiator II",
+    "description": "Years after Maximus's death, Luciusnow a grown manis drawn into the brutal world of the Roman arena, where he must fight for survival and legacy.",
+    "actual_genres": [
+      "action",
+      "drama",
+      "historical"
+    ],
+    "predicted_genres": "War, Action, History",
+    "match": true
+  },
+  {
+    "movie_title": "Village Rockstars",
+    "description": "A young girl in rural Assam dreams of owning a guitar and forming a rock band, overcoming challenges with determination and hope.",
+    "actual_genres": [
+      "drama",
+      "family"
+    ],
+    "predicted_genres": "Music, Musical, Adventure",
+    "match": false
+  },
+  {
+    "movie_title": "Sinners",
+    "description": "Set in 1930s Mississippi, a family battles a seductive viral curse tied to vampiric folklore in a gripping supernatural thriller.",
+    "actual_genres": [
+      "horror",
+      "supernatural",
+      "thriller"
+    ],
+    "predicted_genres": "Family, Thriller, Horror",
+    "match": true
+  },
+  {
+    "movie_title": "3 Idiots",
+    "description": "Three engineering students navigate the pressures of academic life while exploring friendship, love, and the meaning of success.",
+    "actual_genres": [
+      "comedy",
+      "drama"
+    ],
+    "predicted_genres": "Western, Action, Adventure",
+    "match": false
+  },
+  {
+    "movie_title": "Eddington",
+    "description": "In a surreal New Mexico town during the COVID-19 era, tensions flare between a sheriff and mayor as social decay sets in.",
+    "actual_genres": [
+      "drama",
+      "psychological",
+      "western"
+    ],
+    "predicted_genres": "Drama, Comedy, Fantasy",
+    "match": true
+  },
+  {
+    "movie_title": "My Name Is Khan",
+    "description": "The story follows Rizwan Khan, a man with Aspergers syndrome, who embarks on a journey across America to meet the President and clear his name after being mistaken as a terrorist.",
+    "actual_genres": [
+      "drama",
+      "romance"
+    ],
+    "predicted_genres": "Adventure, Drama, Fantasy",
+    "match": true
+  },
+  {
+    "movie_title": "A Quiet Place: Day One",
+    "description": "On the first day of the alien apocalypse, a lone survivor navigates chaos and danger in New York City to find safety.",
+    "actual_genres": [
+      "horror",
+      "thriller"
+    ],
+    "predicted_genres": "Sci-Fi, Adventure, Action",
+    "match": false
+  },
+  {
+    "movie_title": "Final Destination: Bloodlines",
+    "description": "A new generation faces deaths intricate designs after disturbing premonitions threaten their lives in everyday settings.",
+    "actual_genres": [
+      "horror",
+      "thriller"
+    ],
+    "predicted_genres": "Horror, Family, Western",
+    "match": true
+  },
+  {
+    "movie_title": "Barbie",
+    "description": "Barbie steps out of her perfect world to discover real lifes complexities, challenging ideas of identity and purpose.",
+    "actual_genres": [
+      "comedy",
+      "fantasy",
+      "drama"
+    ],
+    "predicted_genres": "Adventure, Animation, Drama",
+    "match": true
+  }
+]
